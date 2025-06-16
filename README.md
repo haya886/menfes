@@ -126,8 +126,8 @@
 
     <section class="admin-curhat">
       <h3>🛠️ Curhat Pilihan Admin</h3>
-      <div class="admin-curhat-item">"Kamu gak sendiri ko. Setiap orang punya cerita. Tetap semangat cintaa!" – Admin</div>
-      <div class="admin-curhat-item">"kalo kamu ngerasa lelah, istirahat aja dulu jangan nyerah. – Admin"</div>
+      <div class="admin-curhat-item">"Kamu tidak sendiri. Setiap orang punya cerita. Tetap semangat!" – Admin</div>
+      <div class="admin-curhat-item">"Jika kamu lelah, istirahat bukan berarti menyerah. – Admin"</div>
     </section>
   </main>
 
